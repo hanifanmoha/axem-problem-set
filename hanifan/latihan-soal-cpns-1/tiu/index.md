@@ -1,5 +1,14 @@
-# Tes Intelegensi Umum (TIU)
+# Materi Singkat Tes Intelegensi Umum (TIU)
 
-Ringkasan materi kemampuan numerik, verbal, dan figural.
+Selamat datang di modul belajar mandiri **Tes Intelegensi Umum (TIU)**. Pilih materi teori terlebih dahulu, lalu kerjakan latihan soal interaktifnya.
 
-- [Materi Singkat TIU](materi-singkat-tiu.md)
+## Materi Pembelajaran
+
+- [1. Kemampuan Numerik](numerik.md)
+- [2. Kemampuan Verbal](verbal.md)
+- [3. Kemampuan Figural](figural.md)
+
+## Latihan Soal (Kuis Interaktif)
+
+- [Kuis Kemampuan Numerik](numerik.quiz.md)
+- [Kuis Kemampuan Verbal](verbal.quiz.md)
